@@ -1,5 +1,5 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import SignUp from "./signUp";
+import SignUp from "./SignUp/signUp";
 
 const Body = () => {
   const appRouter = createBrowserRouter([
